@@ -1,0 +1,59 @@
+image_paths,labels
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\jowar\image (13).jpg,jowar
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\pineapple\image (15).jpg,pineapple
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\maize\image (25).jpg,maize
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\clove\images20.jpg,clove
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Olive-tree\image (6).jpeg,Olive-tree
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\wheat\image (42).jpg,wheat
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Cucumber\image (12).jpg,Cucumber
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\rice\image (8).jpg,rice
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\chilli\image.jpeg,chilli
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\tomato\image (9).jpeg,tomato
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\tomato\image (9).jpg,tomato
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\vigna-radiati(Mung)\image (16).jpg,vigna-radiati(Mung)
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Lemon\images23.jpg,Lemon
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\cotton\image (2).jpeg,cotton
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\wheat\image (49).jpg,wheat
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Coffee-plant\images77.jpg,Coffee-plant
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\sunflower\image (21).jpg,sunflower
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Fox_nut(Makhana)\images20.jpg,Fox_nut(Makhana)
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\chilli\image2.jpeg,chilli
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Fox_nut(Makhana)\image6.jpeg,Fox_nut(Makhana)
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\papaya\image (17).jpg,papaya
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Cherry\images3.jpg,Cherry
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\vigna-radiati(Mung)\image (39).jpg,vigna-radiati(Mung)
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\cotton\image (37).jpg,cotton
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Cucumber\image (5).jpg,Cucumber
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Pearl_millet(bajra)\image (84).jpg,Pearl_millet(bajra)
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\sunflower\image (6).jpg,sunflower
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\vigna-radiati(Mung)\image (2).jpeg,vigna-radiati(Mung)
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\gram\image (16).jpg,gram
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\soyabean\imaage (8).jpeg,soyabean
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\clove\image15.jpeg,clove
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\maize\image (8).jpg,maize
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\jute\image (16).jpg,jute
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Cucumber\image (27).jpg,Cucumber
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Tobacco-plant\images18.jpg,Tobacco-plant
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\sugarcane\image (7).jpeg,sugarcane
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\vigna-radiati(Mung)\image (2).jpg,vigna-radiati(Mung)
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\cotton\image (1).png,cotton
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\mustard-oil\image (6).jpeg,mustard-oil
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\soyabean\imaage (5).jpeg,soyabean
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\rice\image (1).png,rice
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\tomato\image (16).jpeg,tomato
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\almond\image (5).jpg,almond
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\sugarcane\image (25).jpg,sugarcane
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Cherry\image28.jpeg,Cherry
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\almond\image (9).jpg,almond
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\vigna-radiati(Mung)\image (37).jpg,vigna-radiati(Mung)
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Coffee-plant\images24.jpg,Coffee-plant
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\banana\image (26).jpg,banana
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\rice\image (4).jpg,rice
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\Olive-tree\image (1).jpeg,Olive-tree
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\jowar\image (5).jpeg,jowar
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\tomato\image (14).jpeg,tomato
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\clove\image4.jpeg,clove
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\jowar\image (6).jpg,jowar
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\coconut\image (21).jpg,coconut
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\almond\image (3).png,almond
+c:\Users\hongquan\Documents\GitHub\agri-crop-classification\agri-crop-classification-main\data\Agricultural-crops\banana\image (25).jpg,banana
